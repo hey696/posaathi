@@ -22,7 +22,7 @@ Quick-commerce POs are brutal: Zepto POs need next-day delivery with an Invoice/
 ## Quickstart
 
 ```bash
-git clone https://github.com/<you>/posaathi.git
+git clone https://github.com/hey696/posaathi.git
 cd posaathi
 npm install
 npm run dev
