@@ -1,0 +1,24 @@
+Subject: Purchase Order for [ACME BRAND PRIVATE LIMITED and P5620587]
+
+Dear ACME BRAND PRIVATE LIMITED ,
+We are writing to formally place a purchase order, which is attached to this email.
+We appreciate your prompt attention to this order and your commitment to delivering
+the products in a timely manner.
+Purchase Order Details:
+Order Number: P5620587
+Order Date: 2026-09-21
+Shipping Address: R2,Shakti Logistics Park Phase 2,Dohale village,Post Padgha, Bhiwandi,thane,Maharashtra 421302
+Billing Address: R2,Shakti Logistics Park Phase 2,Dohale village,Post Padgha, Bhiwandi,thane,Maharashtra 421302
+Expected Delivery Date: 2026-09-22
+Expiry Date: 2026-10-12
+Please confirm receipt of this purchase order.
+Note: Sending the Invoice/ASN one day prior to delivery is a mandatory
+requirement for inwarding at the warehouse.
+
+Item | Qty | Unit Cost
+Signature Matcha 30g | 36 | 650.00
+Everyday Matcha 30g | 72 | 390.00
+Total Value: 51,480.00
+
+Best regards,
+buyer.name
